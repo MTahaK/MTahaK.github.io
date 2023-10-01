@@ -4,4 +4,7 @@
 ## Assignment 1
 ![image](images/q1.png)
 
+## Assignment 2
+![image](images/q2_1.png)
+![image](images/q2_2.png)
 
