@@ -8,3 +8,7 @@
 ![image](images/q2_1.png)
 ![image](images/q2_2.png)
 
+## Assignment 2
+![image](images/q3_1.png)
+![image](images/q3_2.png)
+
